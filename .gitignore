@@ -1,5 +1,6 @@
 # credentials
 configs.py
+postgres-data/*
 
 # vscode files
 .vscode
